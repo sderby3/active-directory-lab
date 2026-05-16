@@ -29,3 +29,5 @@ This project documents the creation of a Windows Server 2022 homelab environment
 - Troubleshooting
 
 -Initial VM setup and Windows Server installation completed prior to documentation stage.
+
+-Initially installed Windows 11 Home edition, which does not support Active Directory domain joining. Rebuilt client VM using a Professional edition operating system to enable enterprise domain functionality.

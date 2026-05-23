@@ -178,3 +178,4 @@ Included troubleshooting notes, priorities, and documented resolutions to simula
 - Group Policy administration
 - Troubleshooting and problem solving
 - Infrastructure documentation
+- Jira Workflow simulation

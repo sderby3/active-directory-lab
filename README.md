@@ -164,7 +164,7 @@ Practised ticket lifecycle management using:
 
 Included troubleshooting notes, priorities, and documented resolutions to simulate real-world IT support operations.
 
-<img src="jira_board.png" width="700">
+<img src="Jira_board.png" width="700">
 <img src="Ticket_Comments.png" width="700">
 
 ---

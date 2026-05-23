@@ -15,6 +15,7 @@ The purpose of the lab was to develop hands-on infrastructure, networking and sy
 - DNS
 - Group Policy
 - Virtual Networking
+- Jira
 
 ---
 
@@ -142,6 +143,29 @@ Windows 11 setup required internet and Microsoft account sign-in.
 Used OOBE bypass methods to complete offline local account setup.
 
 <img src="Bypass_no_network_cmd.png" width="700">
+
+---
+
+## Jira IT Support Workflow Simulation
+
+Used Jira Service Management to simulate IT support workflows and issue tracking for the Active Directory homelab environment.
+
+Created and managed tickets related to:
+- Active Directory deployment
+- DNS troubleshooting
+- Group Policy issues
+- Domain join failures
+- Virtual network connectivity
+
+Practised ticket lifecycle management using:
+- To Do
+- In Progress
+- Done
+
+Included troubleshooting notes, priorities, and documented resolutions to simulate real-world IT support operations.
+
+<img src="jira_board.png" width="700">
+<img src="Ticket_Comments.png" width="700">
 
 ---
 
